@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Swap file from abnormal vi/vim close
+.swp
+
+# data directory created by t2t commands
+t2t/
