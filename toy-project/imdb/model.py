@@ -31,6 +31,5 @@ class MyFC(t2t_model.T2TModel):
 def my_hparams():
     """Small fully connected model."""
     hparams = basic.basic_fc_small()
-    hparams.num_hiddle_layers = 1
     return hparams
 
