@@ -217,11 +217,9 @@ node_modules/
 # Ignore go.sum which is created by invoking Go commands outside Bazel.
 /go.sum
 
-<<<<<<< HEAD
 # Ignore temp dirs.
 /tmp/
 /temp/
-=======
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
 #   However, in case of collaboration, if having platform-specific dependencies or dependencies
@@ -266,9 +264,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Swap file from abnormal vi/vim close
-.swp
-
 # data directory created by t2t commands
 t2t/
->>>>>>> Initial commit: tensor2tensor toy project
