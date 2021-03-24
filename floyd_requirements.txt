@@ -49,7 +49,7 @@ pyasn1-modules==0.2.8
 pyglet==1.4.10
 pypng==0.0.20
 requests==2.22.0
-rsa==4.0
+rsa==4.1
 scipy==1.4.1
 six==1.14.0
 sympy==1.5.1
