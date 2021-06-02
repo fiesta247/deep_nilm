@@ -65,6 +65,6 @@ tensorflow-probability==0.7.0
 termcolor==1.1.0
 tqdm==4.42.1
 uritemplate==3.0.1
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==1.0.0
 wrapt==1.11.2
